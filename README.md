@@ -9,6 +9,7 @@ Una plataforma web API para la gestión de ofertas de productos y administració
 - [Instalación](#instalación)
   - [Base de Datos](#base-de-datos)
   - [Backend](#backend)
+- [Servicios en Azure](#servicios-en-azure)
 
 ## Descripción
 
@@ -86,10 +87,17 @@ o en Visual Studio, click derecho en la solicion y "Restaurar paquetes de NuGet"
     - Cambia la ruta de la base de datos.
   
 Deberia verse de esta forma:
-  ```json
-   {
-     "ConnectionStrings": {
-       "Connection": "Server=your_server_name;Database=your_database_name;Trusted_Connection=True;TrustServerCertificate=True"
-     }
-   }
+    ```json
+    {
+        "ConnectionStrings": {
+        "Connection": "Server=your_server_name;Database=your_database_name;Trusted_Connection=True;TrustServerCertificate=True"
+        }
+    }
+    ```
+    
+## Servicios en Azure
 
+- [Servicio de Autenticación (Identity)](https://ts-autentication-bwhsgxducwfnetdh.canadacentral-01.azurewebsites.net/swagger/index.html)
+- [Servicio de Gestión de Órdenes (OrderManagement)](https://ts-ordermanagement-fqb3ctg5gweabtc9.canadacentral-01.azurewebsites.net/swagger/index.html)
+- [Servicio de Catálogo de Productos (ProductCatalog)](https://ts-productcatalog-hmewhvdud2akgkc7.canadacentral-01.azurewebsites.net/swagger/index.html)
+- [API Gateway](https://ts-apigateway-cjb0dvhceafka0fg.canadacentral-01.azurewebsites.net/swagger/index.html)
