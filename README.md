@@ -87,6 +87,7 @@ o en Visual Studio, click derecho en la solicion y "Restaurar paquetes de NuGet"
     - Cambia la ruta de la base de datos.
   
 Deberia verse de esta forma:
+
     ```json
     {
         "ConnectionStrings": {
