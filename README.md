@@ -45,9 +45,9 @@ Los servicios están desplegados en Azure y se pueden probar a través de las si
 
 Clona el repositorio del proyecto:
 
-    ```bash
-    git clone https://github.com/cruzrom21/TestEcommerce.git
-    ```
+  ```bash
+  git clone https://github.com/cruzrom21/TestEcommerce.git
+  ```
 
 ### Base de Datos
 
@@ -87,14 +87,13 @@ o en Visual Studio, click derecho en la solicion y "Restaurar paquetes de NuGet"
     - Cambia la ruta de la base de datos.
   
 Deberia verse de esta forma:
-
-    ```json
-    {
-        "ConnectionStrings": {
-        "Connection": "Server=your_server_name;Database=your_database_name;Trusted_Connection=True;TrustServerCertificate=True"
-        }
-    }
-    ```
+  ```json
+  {
+      "ConnectionStrings": {
+      "Connection": "Server=your_server_name;Database=your_database_name;Trusted_Connection=True;TrustServerCertificate=True"
+      }
+  }
+  ```
     
 ## Servicios en Azure
 
