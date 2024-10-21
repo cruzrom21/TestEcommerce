@@ -5,7 +5,6 @@ Una plataforma web API para la gestión de ofertas de productos y administració
 ## Tabla de Contenidos
 
 - [Descripción](#descripción)
-- [Características](#características)
 - [Requisitos Previos](#requisitos-previos)
 - [Instalación](#instalación)
   - [Base de Datos](#base-de-datos)
@@ -59,9 +58,9 @@ Clona el repositorio del proyecto:
 
 2. Ejecutar scripts para crear las bases de datos.
 
-- ScriptIdentityDB.sql
-- ScriptOrderDB.sql
-- ScriptIdentityDB.sql
+    - ScriptIdentityDB.sql
+    - ScriptOrderDB.sql
+    - ScriptIdentityDB.sql
 
 
 
