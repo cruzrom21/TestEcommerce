@@ -9,7 +9,6 @@ Una plataforma web API para la gestión de ofertas de productos y administració
 - [Instalación](#instalación)
   - [Base de Datos](#base-de-datos)
   - [Backend](#backend)
-- [Servicios en Azure](#servicios-en-azure)
 
 ## Descripción
 
