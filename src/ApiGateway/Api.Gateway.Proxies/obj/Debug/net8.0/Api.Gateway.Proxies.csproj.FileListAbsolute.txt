@@ -1,0 +1,15 @@
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\bin\Debug\net8.0\Api.Gateway.Proxies.deps.json
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\bin\Debug\net8.0\Api.Gateway.Proxies.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\bin\Debug\net8.0\Api.Gateway.Proxies.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\bin\Debug\net8.0\Api.Gateway.Models.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\bin\Debug\net8.0\Api.Gateway.Models.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\obj\Debug\net8.0\Api.Gateway.Proxies.csproj.AssemblyReference.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\obj\Debug\net8.0\Api.Gateway.Proxies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\obj\Debug\net8.0\Api.Gateway.Proxies.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\obj\Debug\net8.0\Api.Gateway.Proxies.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\obj\Debug\net8.0\Api.Gateway.Proxies.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\obj\Debug\net8.0\Api.Gate.97CFDA84.Up2Date
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\obj\Debug\net8.0\Api.Gateway.Proxies.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\obj\Debug\net8.0\refint\Api.Gateway.Proxies.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\obj\Debug\net8.0\Api.Gateway.Proxies.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Proxies\obj\Debug\net8.0\ref\Api.Gateway.Proxies.dll

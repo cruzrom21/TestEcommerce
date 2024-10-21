@@ -1,0 +1,17 @@
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\bin\Debug\net8.0\Order.Persistence.Database.deps.json
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\bin\Debug\net8.0\Order.Persistence.Database.runtimeconfig.json
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\bin\Debug\net8.0\Order.Persistence.Database.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\bin\Debug\net8.0\Order.Persistence.Database.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\obj\Debug\net8.0\Order.Persistence.Database.csproj.AssemblyReference.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\obj\Debug\net8.0\Order.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\obj\Debug\net8.0\Order.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\obj\Debug\net8.0\Order.Persistence.Database.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\obj\Debug\net8.0\Order.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\obj\Debug\net8.0\Order.Persistence.Database.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\obj\Debug\net8.0\refint\Order.Persistence.Database.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\obj\Debug\net8.0\Order.Persistence.Database.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\obj\Debug\net8.0\Order.Persistence.Database.genruntimeconfig.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\obj\Debug\net8.0\ref\Order.Persistence.Database.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Persistence.Database\obj\Debug\net8.0\Order.Pe.4B1F212C.Up2Date

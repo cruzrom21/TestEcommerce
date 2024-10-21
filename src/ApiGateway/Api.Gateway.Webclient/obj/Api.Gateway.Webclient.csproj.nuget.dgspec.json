@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
+        "projectName": "Api.Gateway.Models",
+        "projectPath": "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
+        "packagesPath": "C:\\Users\\cruzr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cruzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Proxies\\Api.Gateway.Proxies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Proxies\\Api.Gateway.Proxies.csproj",
+        "projectName": "Api.Gateway.Proxies",
+        "projectPath": "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Proxies\\Api.Gateway.Proxies.csproj",
+        "packagesPath": "C:\\Users\\cruzr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Proxies\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cruzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj": {
+                "projectPath": "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj",
+        "projectName": "Api.Gateway.Webclient",
+        "projectPath": "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Webclient\\Api.Gateway.Webclient.csproj",
+        "packagesPath": "C:\\Users\\cruzr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Webclient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cruzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj": {
+                "projectPath": "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Models\\Api.Gateway.Models.csproj"
+              },
+              "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Proxies\\Api.Gateway.Proxies.csproj": {
+                "projectPath": "C:\\Users\\cruzr\\source\\repos\\TestEcommerceGit\\src\\ApiGateway\\Api.Gateway.Proxies\\Api.Gateway.Proxies.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\obj\Debug\net8.0\Identity.Persistence.Repository.csproj.AssemblyReference.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\obj\Debug\net8.0\Identity.Persistence.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\obj\Debug\net8.0\Identity.Persistence.Repository.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\obj\Debug\net8.0\Identity.Persistence.Repository.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\obj\Debug\net8.0\Identity.Persistence.Repository.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\bin\Debug\net8.0\Identity.Persistence.Repository.deps.json
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\bin\Debug\net8.0\Identity.Persistence.Repository.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\bin\Debug\net8.0\Identity.Persistence.Repository.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\bin\Debug\net8.0\Identity.Persistence.Database.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\bin\Debug\net8.0\Identity.Persistence.Database.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\obj\Debug\net8.0\Identity.9F496E31.Up2Date
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\obj\Debug\net8.0\Identity.Persistence.Repository.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\obj\Debug\net8.0\refint\Identity.Persistence.Repository.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\obj\Debug\net8.0\Identity.Persistence.Repository.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Persistence.Repository\obj\Debug\net8.0\ref\Identity.Persistence.Repository.dll

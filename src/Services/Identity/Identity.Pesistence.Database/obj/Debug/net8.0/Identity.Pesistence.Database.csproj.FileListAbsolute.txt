@@ -1,0 +1,14 @@
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\bin\Debug\net8.0\Identity.Pesistence.Database.deps.json
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\bin\Debug\net8.0\Identity.Pesistence.Database.runtimeconfig.json
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\bin\Debug\net8.0\Identity.Pesistence.Database.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\bin\Debug\net8.0\Identity.Pesistence.Database.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Pesistence.Database.csproj.AssemblyReference.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Pesistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Pesistence.Database.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Pesistence.Database.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Pesistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Pesistence.Database.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\refint\Identity.Pesistence.Database.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Pesistence.Database.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Pesistence.Database.genruntimeconfig.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\ref\Identity.Pesistence.Database.dll

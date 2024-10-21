@@ -1,0 +1,11 @@
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Models\bin\Debug\net8.0\Api.Gateway.Models.deps.json
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Models\bin\Debug\net8.0\Api.Gateway.Models.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Models\bin\Debug\net8.0\Api.Gateway.Models.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Models\obj\Debug\net8.0\refint\Api.Gateway.Models.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\ApiGateway\Api.Gateway.Models\obj\Debug\net8.0\ref\Api.Gateway.Models.dll

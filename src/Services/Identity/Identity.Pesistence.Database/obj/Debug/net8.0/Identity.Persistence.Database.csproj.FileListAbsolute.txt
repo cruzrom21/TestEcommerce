@@ -1,0 +1,17 @@
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\bin\Debug\net8.0\Identity.Persistence.Database.deps.json
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\bin\Debug\net8.0\Identity.Persistence.Database.runtimeconfig.json
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\bin\Debug\net8.0\Identity.Persistence.Database.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\bin\Debug\net8.0\Identity.Persistence.Database.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.csproj.AssemblyReference.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.EF2B3A67.Up2Date
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\refint\Identity.Persistence.Database.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.genruntimeconfig.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\Identity\Identity.Pesistence.Database\obj\Debug\net8.0\ref\Identity.Persistence.Database.dll

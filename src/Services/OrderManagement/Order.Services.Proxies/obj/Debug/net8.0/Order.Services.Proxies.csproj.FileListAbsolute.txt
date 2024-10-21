@@ -1,0 +1,15 @@
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\bin\Debug\net8.0\Order.Services.Proxies.deps.json
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\bin\Debug\net8.0\Order.Services.Proxies.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\bin\Debug\net8.0\Order.Services.Proxies.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\obj\Debug\net8.0\Order.Services.Proxies.csproj.AssemblyReference.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\obj\Debug\net8.0\Order.Services.Proxies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\obj\Debug\net8.0\Order.Services.Proxies.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\obj\Debug\net8.0\Order.Services.Proxies.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\obj\Debug\net8.0\Order.Services.Proxies.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\obj\Debug\net8.0\Order.Se.6022E722.Up2Date
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\obj\Debug\net8.0\Order.Services.Proxies.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\obj\Debug\net8.0\refint\Order.Services.Proxies.dll
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\obj\Debug\net8.0\Order.Services.Proxies.pdb
+C:\Users\cruzr\source\repos\TestEcommerce\src\Services\OrderManagement\Order.Services.Proxies\obj\Debug\net8.0\ref\Order.Services.Proxies.dll
